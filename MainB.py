@@ -11,13 +11,13 @@ class Node:
         self.v = item
         self.next = None
 
-    def set_next_node(self, next_node):
+    def setNext(self, next_node):
         self.next = next_node
     
-    def get_next_node(self):
+    def getNext(self):
         return self.next
   
-    def get_value(self):
+    def get(self):
         return self.v
 
 class List:
