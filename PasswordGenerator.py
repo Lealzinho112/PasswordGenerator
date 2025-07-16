@@ -146,16 +146,3 @@ class PasswordCreator():
 
         self.password = self.passwordChr.print()
         return self.password
-                
-
-        
-        
-
-
-        
-
-
-
-
-
-
